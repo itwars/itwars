@@ -4,7 +4,7 @@
   - Twitter : @itwars
   - [Linkedin](https://www.linkedin.com/in/vrabah/)
   
-## Contributor on OSS
+## OSS Contributor:
 
 - Creator of Ansible k3s official repo : https://github.com/k3s-io/k3s-ansible
 - Libvirt/Qemu Terraform provider : https://github.com/dmacvicar/terraform-provider-libvirt
