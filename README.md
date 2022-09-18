@@ -1,7 +1,6 @@
 # About 👋
 
 - 📫 How to reach me:
-  - Twitter : @itwars
   - [Linkedin](https://www.linkedin.com/in/vrabah/)
   
 ## OSS Contributor:
